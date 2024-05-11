@@ -1,9 +1,6 @@
 # Build-a-Reliable-Retrieval-Augmented-Generation-RAG-Agent-using-LangGraphh
 Here we will build reliable RAG agents using LangGraph, Groq-Llama-3 and Chroma, We will combine the below concepts to build the RAG Agent.
 
-![RAG Agent Workflow](C:/Users/rajee/OneDrive/Pictures/RAG.png)
-
-
 Adaptive RAG (paper). We have implemented the concept to build a Router for routing questions to different retrieval approaches
 Corrective RAG (paper). We have implemented the concept  to develop a fallback mechanism to progress with when the context retrieved is irrelevant to the question asked.
 Self-RAG (paper). We have implemented the concept  to develop a hallucination grader .i.e. fix answers that hallucinate or doesn’t address the question asked.
