@@ -1,4 +1,4 @@
-# Build-a-Reliable-Retrieval-Augmented-Generation-RAG-Agent-using-LangGraphh
+# Build-a-Reliable-Retrieval-Augmented-Generation-RAG-Agent-using-LangGraph
 Here we will build reliable RAG agents using LangGraph, Groq-Llama-3 and Chroma, We will combine the below concepts to build the RAG Agent.
 
 Adaptive RAG (paper). We have implemented the concept to build a Router for routing questions to different retrieval approaches
